@@ -1,0 +1,41 @@
+Product_ID,Product_Name,Category,Supplier,Unit_Price,Lead_Time_Days
+SKU1000,Electronics_Item_1,Electronics,Supplier_A,9457.32,7
+SKU1001,Electronics_Item_2,Electronics,Supplier_A,19525.32,5
+SKU1002,Electronics_Item_3,Electronics,Supplier_C,4026.46,7
+SKU1003,Electronics_Item_4,Electronics,Supplier_D,21674.48,7
+SKU1004,Electronics_Item_5,Electronics,Supplier_B,661.52,10
+SKU1005,Electronics_Item_6,Electronics,Supplier_B,23473.03,10
+SKU1006,Electronics_Item_7,Electronics,Supplier_D,4707.6,5
+SKU1007,Electronics_Item_8,Electronics,Supplier_D,13190.2,3
+SKU1008,Electronics_Item_9,Electronics,Supplier_C,7387.04,5
+SKU1009,Electronics_Item_10,Electronics,Supplier_D,1309.64,7
+SKU1010,Fashion_Item_1,Fashion,Supplier_D,1240.02,3
+SKU1011,Fashion_Item_2,Fashion,Supplier_C,282.38,14
+SKU1012,Fashion_Item_3,Fashion,Supplier_B,1433.92,10
+SKU1013,Fashion_Item_4,Fashion,Supplier_B,2835.28,5
+SKU1014,Fashion_Item_5,Fashion,Supplier_B,1248.44,14
+SKU1015,Fashion_Item_6,Fashion,Supplier_D,808.05,10
+SKU1016,Fashion_Item_7,Fashion,Supplier_A,497.81,7
+SKU1017,Fashion_Item_8,Fashion,Supplier_D,2741.56,5
+SKU1018,Fashion_Item_9,Fashion,Supplier_B,2038.19,5
+SKU1019,Fashion_Item_10,Fashion,Supplier_A,1767.95,5
+SKU1020,Home_Item_1,Home & Kitchen,Supplier_B,2359.13,5
+SKU1021,Home_Item_2,Home & Kitchen,Supplier_B,2700.26,10
+SKU1022,Home_Item_3,Home & Kitchen,Supplier_D,278.9,14
+SKU1023,Home_Item_4,Home & Kitchen,Supplier_B,1257.73,14
+SKU1024,Home_Item_5,Home & Kitchen,Supplier_A,1822.24,10
+SKU1025,Home_Item_6,Home & Kitchen,Supplier_A,1880.05,3
+SKU1026,Home_Item_7,Home & Kitchen,Supplier_A,994.38,3
+SKU1027,Home_Item_8,Home & Kitchen,Supplier_A,194.56,3
+SKU1028,Home_Item_9,Home & Kitchen,Supplier_D,716.34,7
+SKU1029,Home_Item_10,Home & Kitchen,Supplier_D,716.7,7
+SKU1030,Grocery_Item_1,Grocery,Supplier_C,2402.0,14
+SKU1031,Grocery_Item_2,Grocery,Supplier_B,2789.96,3
+SKU1032,Grocery_Item_3,Grocery,Supplier_A,2757.64,10
+SKU1033,Grocery_Item_4,Grocery,Supplier_D,1093.06,14
+SKU1034,Grocery_Item_5,Grocery,Supplier_D,2229.38,7
+SKU1035,Grocery_Item_6,Grocery,Supplier_C,1749.54,14
+SKU1036,Grocery_Item_7,Grocery,Supplier_C,2919.38,3
+SKU1037,Grocery_Item_8,Grocery,Supplier_C,2206.93,7
+SKU1038,Grocery_Item_9,Grocery,Supplier_C,1639.79,5
+SKU1039,Grocery_Item_10,Grocery,Supplier_A,222.44,7

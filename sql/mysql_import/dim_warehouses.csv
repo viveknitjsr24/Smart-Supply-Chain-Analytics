@@ -1,0 +1,4 @@
+Warehouse_ID,Region,Warehouse_Capacity_Units
+WH_NORTH,North,2800
+WH_SOUTH,South,2300
+WH_WEST,West,2600

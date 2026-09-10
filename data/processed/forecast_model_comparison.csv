@@ -1,0 +1,4 @@
+,MAE,MAPE
+Exponential Smoothing,73.47,3.87
+Random Forest,74.04,3.9
+Moving Average,84.03,4.41
